@@ -76,7 +76,6 @@ export interface Permissions {
   HARDWARE_TEST: "android.permission.HARDWARE_TEST";
   INJECT_EVENTS: "android.permission.INJECT_EVENTS";
   INSTALL_LOCATION_PROVIDER: "android.permission.INSTALL_LOCATION_PROVIDER";
-  INSTALL_PACKAGES: "android.permission.INSTALL_PACKAGES";
   INSTALL_SHORTCUT: "com.android.launcher.permission.INSTALL_SHORTCUT";
   INTERNAL_SYSTEM_WINDOW: "android.permission.INTERNAL_SYSTEM_WINDOW";
   INTERNET: "android.permission.INTERNET";
