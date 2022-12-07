@@ -75,7 +75,6 @@ function Permissions() {
     this.HARDWARE_TEST = 'android.permission.HARDWARE_TEST';
     this.INJECT_EVENTS = 'android.permission.INJECT_EVENTS';
     this.INSTALL_LOCATION_PROVIDER = 'android.permission.INSTALL_LOCATION_PROVIDER';
-    this.INSTALL_PACKAGES = 'android.permission.INSTALL_PACKAGES';
     this.INSTALL_SHORTCUT = 'com.android.launcher.permission.INSTALL_SHORTCUT';
     this.INTERNAL_SYSTEM_WINDOW = 'android.permission.INTERNAL_SYSTEM_WINDOW';
     this.INTERNET = 'android.permission.INTERNET';
